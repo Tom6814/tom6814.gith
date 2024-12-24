@@ -3,4 +3,10 @@
     "subTitle":"一个初中生的博客",
     "avatarUrl":"https://p.sda1.dev/20/ced98cc84d10461dd26215179c319d42/_A1.art_.jpg",
     "GMEEK_VERSION":"last"
+    "i18n":"CN",
+    "startSite":"23/11/2024",
+    "bottomText":"(σ･ω･)σ",
+    "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
+    "UTC":8,
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
 }
