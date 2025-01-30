@@ -111,7 +111,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <p>总之，这周就是这样，It's really nice ！</p>
 <p>=)<br>
 Bye bye~</p></div>
-<div style="font-size:small;margin-top:8px;float:right;"></div>
+<div style="font-size:small;margin-top:8px;float:right;">(σ･ω･)σ</div>
 
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
 <div class="comments" id="comments"></div>
@@ -126,8 +126,8 @@ Bye bye~</p></div>
 var now=new Date();
 document.getElementById("copyrightYear").innerHTML=now.getFullYear();
 
-if(""!=""){
-    var startSite=new Date("");
+if("23/11/2024"!=""){
+    var startSite=new Date("23/11/2024");
     var diff=now.getTime()-startSite.getTime();
     var diffDay=Math.floor(diff/(1000*60*60*24));
     document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
